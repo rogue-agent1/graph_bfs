@@ -1,13 +1,3 @@
 # graph_bfs
-
-Graph BFS/DFS — traversal, shortest path, connected components
-
-## Usage
-
-```bash
-python3 graph_bfs.py --help
-```
-
-## License
-
-MIT
+BFS graph traversal — shortest path, connected components, level order.
+Single-file Python, zero dependencies.
